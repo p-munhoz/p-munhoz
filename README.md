@@ -2,7 +2,7 @@
 - 👀 I’m interested in food, cats
 - 🌱 I’m currently learning React and how to build a pizza furnace
 - 💞️ I’m looking to collaborate on a house building
-- 📫 How to reach me pierre.munhoz@contentsquare.com
+- 📫 How to reach me pierre.munhoz@gmail.com
 
 <!---
 p-munhoz/p-munhoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
